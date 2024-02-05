@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Ted Gravlin 👋🏻👨🏻‍💻
 
-<!--
-**tedgravlin/tedgravlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a Computer Science degree from Eastern Michigan University and I'm currently looking for a job in sofware development
 
-Here are some ideas to get you started:
+I'm passionate about open-source software and privacy-focused technology. Web development is my favorite way to make stuff, but I'm always learning more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me 🌎
+* My [personal website](https://tedgravlin.tech) 🔗
+* On [LinkedIn](https://www.linkedin.com/in/theodore-gravlin/) 💼
+
+---
+
+## What am I doing now?
+* Developing [Signal Update Info](https://signalupdateinfo.com/)
+* Looking for a job in software development
+* Learning Android development
+* Learning Arduino development
+* Spening too much time on Netflix
