@@ -15,4 +15,4 @@ I'm passionate about open-source software and privacy-focused technology. Web de
 * Looking for a job in software development
 * Learning Android development
 * Learning Arduino development
-* Spening too much time on Netflix
+* Spending too much time on Netflix
