@@ -13,7 +13,4 @@ I'm passionate about open-source software and privacy-focused technology. Web de
 
 ## What am I doing now?
 * Working full-time as a Web Developer
-* Developing [Signal Update Info](https://signalupdateinfo.com/)
-* Learning Android development
 * Learning Arduino development
-* Spending too much time on Netflix
