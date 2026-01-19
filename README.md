@@ -7,10 +7,8 @@ I'm passionate about open-source software and privacy-focused technology. Web de
 ## Where to find me 🌎
 * My [personal website](https://tedgravlin.tech) 🔗
 * On [LinkedIn](https://www.linkedin.com/in/theodore-gravlin/) 💼
-* On [Mastodon](https://mastodon.world/@tedgravlin)
 
 ---
 
 ## What am I doing now?
 * Working full-time as a Web Developer
-* Learning Arduino development
