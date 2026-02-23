@@ -1,4 +1,4 @@
-# Hi, I'm Ted Gravlin 👋🏻👨🏻‍💻
+# Hi, I'm Ted  👋🏻👨🏻‍💻
 
 I have a Bachelor's of Computer Science from Eastern Michigan University.
 
